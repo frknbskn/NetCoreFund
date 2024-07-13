@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "GJZLuY7ogk9rdO8M1t3VVIjg3LSAV+fL1jVzwfVtUBA=",
+  "Source": "introduceDotNetCore",
+  "BasePath": "_content/introduceDotNetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "introduceDotNetCore\\wwwroot",
+      "Source": "introduceDotNetCore",
+      "ContentRoot": "C:\\dotnetcore\\introduceNetCore\\introduceDotNetCore\\introduceDotNetCore\\wwwroot\\",
+      "BasePath": "_content/introduceDotNetCore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\dotnetcore\\introduceNetCore\\introduceDotNetCore\\introduceDotNetCore\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "SourceId": "introduceDotNetCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dotnetcore\\introduceNetCore\\introduceDotNetCore\\introduceDotNetCore\\wwwroot\\",
+      "BasePath": "_content/introduceDotNetCore",
+      "RelativePath": "lib/bootstrap/css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\dotnetcore\\introduceNetCore\\introduceDotNetCore\\introduceDotNetCore\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "SourceId": "introduceDotNetCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dotnetcore\\introduceNetCore\\introduceDotNetCore\\introduceDotNetCore\\wwwroot\\",
+      "BasePath": "_content/introduceDotNetCore",
+      "RelativePath": "lib/bootstrap/js/bootstrap.bundle.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\introduceDotNetCore.props" />
+</Project>
